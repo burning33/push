@@ -1,0 +1,14 @@
+{
+    "name": "83710/push",
+    "description": "third party message push",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "burninG",
+            "email": "837109151@qq.com"
+        }
+    ]
+}
